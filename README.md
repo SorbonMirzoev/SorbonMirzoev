@@ -1,4 +1,4 @@
- ## Hey 👋, I'm Sorbon Mirzoev!  
+## Hey 👋, I'm Sorbon Mirzoev!  
   
 
 <a href="https://github.com/https://github.com/SorbonMirzoev" target="_blank">
@@ -30,14 +30,11 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning machine learning and deep learning.  
+- 🌱 I’m currently learning machine learning           and deep learning.  
 
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
