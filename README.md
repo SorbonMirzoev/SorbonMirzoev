@@ -6,7 +6,7 @@ Data Analyst
 
 Having dedicated significant time to studying data analytics and gaining practical experience through employment at EVOLET company in 2018, I regrettably departed for personal reasons. In 2023, I recommitted myself to actively leveraging my accumulated expertise to further develop my skills in the field.
 
-* 📍  I'm based in Poland
+* 📍  Based in Poland
 * 🖥️  See my portfolio at: [**Portfolio**](https://site155321.nicepage.io/?version=be6ec6b6-30a3-4f2a-a6c2-cb13f3b3c8b3)
 - :mailbox:  You can contact me at:   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](sorbon.jobs@gmail.com)
 * 🌍 I speak Russian (native), English (C1), Persian (B2)
